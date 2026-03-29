@@ -1,0 +1,10 @@
+# ninja log v6
+4	515	7964732327371863	WorkWithQPainter_graphiki_autogen/timestamp	f31da3315207b187
+4	515	7964732327371863	WorkWithQPainter_graphiki_autogen/mocs_compilation.cpp	f31da3315207b187
+4	515	7964732327371863	C:/Users/User/Desktop/qt/WorkWithQPainter_graphiki/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/WorkWithQPainter_graphiki_autogen/timestamp	f31da3315207b187
+4	515	7964732327371863	C:/Users/User/Desktop/qt/WorkWithQPainter_graphiki/build/Desktop_Qt_6_10_2_MinGW_64_bit-Debug/WorkWithQPainter_graphiki_autogen/mocs_compilation.cpp	f31da3315207b187
+519	3135	7964732327802576	CMakeFiles/WorkWithQPainter_graphiki.dir/WorkWithQPainter_graphiki_autogen/mocs_compilation.cpp.obj	74b6c35bbbc2c247
+520	3153	7964732327812551	CMakeFiles/WorkWithQPainter_graphiki.dir/main.cpp.obj	426503f63ff9714e
+523	3232	7964732327842547	CMakeFiles/WorkWithQPainter_graphiki.dir/graphwidget.cpp.obj	fc2a62b38aebf4ab
+522	3248	7964732327832551	CMakeFiles/WorkWithQPainter_graphiki.dir/mainwindow.cpp.obj	817c20a19c3a260e
+3248	3407	7964732355097181	WorkWithQPainter_graphiki.exe	418678e2e57122c5
